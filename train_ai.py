@@ -8,5 +8,5 @@ for other articles is included.
 """
 
 textgen = textgenrnn()
-textgen.train_from_file("articles/wagner.txt", num_epochs=20)
+textgen.train_from_file("articles/wagner.out", num_epochs=20)
 

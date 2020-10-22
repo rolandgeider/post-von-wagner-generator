@@ -39,6 +39,47 @@ pip install -r requirements.txt
 python3 generate_wagners.py
 ```
 
-## Wo sind die ganzen Texte
-Ich kann die Texte hier nicht zur verfügung stellen, nur die Trainingsdaten. Du
-kannst also ohne Probleme Texte generieren.
+## Wo sind die ganzen Kolumnen?
+Ich kann die Texte hier nicht zur verfügung stellen, nur die Trainingsdaten.
+Wenn du willst, kannst du sie aber selber mit dem `download_wagners.py` Skript
+runterladen. Allerdings **brauchst du das nicht, um selber Wagner-Texte zu
+generieren**, du kannst ohne Probleme `generate_wagners.py` ausführen.
+
+# Das ist mir alles egal, ich will Beispiele!!!
+
+Hier wurden ggf nur Satzzeichen hinzugefügt und Artikel und Verben korrigiert, damit
+das Ergebnis lesbarer ist. Falls nicht automatisch passiert, wurde auch ein
+"Herzlichst Ihr F. J. Wagner" ans Ende hinzugefügt.
+
+* Liebes Deutschland, schönes Herz, was Menschen beschimpft. Sie sind kein Herz. Herzlichst Ihr F. J. Wagner
+* Die Tür hat die Zeit geschlossen. Wir haben die Straßen und in den Straßen
+    spielten sie sich nicht an. Was ich mache in der Angst? Ich habe die Staatsanwalt
+    von dem Trainer vor dem Krieg in den Tod. Die Geschichte ist der Baum.
+    Herzlichst Ihr F. J. Wagner
+* Liebe Charité: Ich war ein Fan. Ich will nicht in dem Krieg der Fans,
+    dass er sich in der Angeklagten werden in der Welt. Was ist der Sohn einer
+    Strafzeige? Alles wurde nicht mehr gefallen. Sie sind eine richtige Formel,
+    eine geschehen. Herzlichst Ihr F. J. Wagner
+* Liebes Gesicht aus Frauen: Dank der schönen Geschichte, und Mensch reicht zu küssen.
+    Das Leben auf dem Flugzeug schießt ihre Leben, der Schreie der Türkei in der
+    Rechtspane. Der Russe des Menschen geht Rennfahren. In einen Kinder gibt es
+    nichts als seinen Sohn aus Blut. Zuwe ist Kanzlerin. Wir haben Falten.
+    geworden, wie Stelle die die Zeit gegen das Leben des Mülls steht.
+    Herzlichst Ihr F. J. Wagner
+* Liebe Toten: ich war glücklich, meine Autos schreien. Politik ist kein Herz,
+    die Kanzlerin wurde sich zu sein kommen. Es war ein Mensch und Hundertfacher.
+    Die Beine sind so besser – und dann der Prozess im Bundesland. Die Deutschen
+    sind gegen Augen und Hannover ist ein Schumacher-Politiker. Alles würde ich
+    nicht auf den Frauen, die sich sehen. Herzlichst Ihr F. J. Wagner
+* Lieber Tönnies-Mensch: die Unterheit hat die Welt plötzlich gegen Herzen. Sie
+    sind zu seinen Weltreich. Er hat seine Männer der Wüsten. Was machen wir alle
+    nur alles Gesund. Was für ein Mann ist ein Mädchen, leichter mit dem Menschen
+    schreiben und unterschlagen starben. Ich will nicht mehr herunter in die Angst.
+    Herzlichst Franz Josef Wagner
+* Lieber haben Sie Frauen als Steaks. Aber die Berge sind die Fingern.
+    Es war das Schicksal des Leben. Für mich ist ein Wolf die Erfahrung der
+    Schwester. Die Welt bezeichneten Sie nicht der Strafe. Herzlichst, Ihr Franz Josef Wagner
+* Liebes ich von Herz: die Chance anzugehen Sie in der Welt zu kriegen. Er hat
+    auch die Stadt in der Schweiz. Alles sind zu sich auf. Sie können die
+    Sexualverbrecher kleine Sterne im Wohnzimmer. Das Böse war auf unserer Welt.
+    Herzlichst Franz Josef Wagner
